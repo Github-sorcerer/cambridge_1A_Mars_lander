@@ -1,0 +1,2 @@
+use euler: senario 4 becomes stable in a large timescale
+because the intergration does not preserve energy. The energy increment is cancelled out with the dragging dissipation(coincidence) and the orbit appears to be stable.

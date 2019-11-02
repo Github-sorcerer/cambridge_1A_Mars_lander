@@ -1,0 +1,8 @@
+1. verlet resembles the sinusoidal solution
+
+2. euler performs poorer than verlet. it doesn't preserve energy even when dt=0.01
+verlet preserves energy until dt=2(should be exactly 2)
+verlet preserves sinusoidal until dt=1
+verlet's energy bound increase->∞ as dt->2
+
+3. dt=2
